@@ -1,0 +1,12 @@
+creating an enviroment
+
+create:
+1.Python -m venv frs
+To activate:
+2.source frs/bin/activate (for mac)
+installing ipykernel :
+3.pip install ipykernel
+Then
+4.python -m ipykernel install --name=frs
+Then
+5.jupyter lab
